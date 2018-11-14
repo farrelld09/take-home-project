@@ -1,5 +1,8 @@
 {
   "name": "league-side-app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0"
+  }
 }
